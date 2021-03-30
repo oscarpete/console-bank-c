@@ -1,0 +1,16 @@
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\bin\Debug\net5.0\ConsoleBank.exe
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\bin\Debug\net5.0\ConsoleBank.deps.json
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\bin\Debug\net5.0\ConsoleBank.runtimeconfig.json
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\bin\Debug\net5.0\ConsoleBank.runtimeconfig.dev.json
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\bin\Debug\net5.0\ConsoleBank.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\bin\Debug\net5.0\ref\ConsoleBank.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\bin\Debug\net5.0\ConsoleBank.pdb
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.csprojAssemblyReference.cache
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.AssemblyInfoInputs.cache
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.AssemblyInfo.cs
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.csproj.CoreCompileInputs.cache
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ref\ConsoleBank.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.pdb
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\console-bank-c\ConsoleBank\ConsoleBank\obj\Debug\net5.0\ConsoleBank.genruntimeconfig.cache
